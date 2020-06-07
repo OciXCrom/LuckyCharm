@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Lucky Charm</name>
+    <directory>crx_lucky_charm</directory>
+    <id>2122674562</id>
+    <description>Adds a trinket in the game named Lucky Charm that has a 2% chance to turn [b]any[/b] coin drop into a lucky penny.
+
+This synergizes well with items that spawn coins, such as IV Bag, Head of the Keeper, Wooden Nickel, etc.
+
+The trinket is unavailable until you unlock lucky pennies by donating 1 coin to the Greed Donation Machine. </description>
+    <version>1.1</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Trinkets"/>
+</metadata>
